@@ -34,10 +34,11 @@ Cada cita agendada incluye:
 8. Finalmente, muestra la lista completa de citas agendadas al finalizar el programa.
 
 ## Ejecución del Programa
-Para ejecutar el programa, basta con correr el archivo `main.py` en cualquier entorno que soporte Python 3. 
+Para ejecutar el programa, basta con correr el archivo `citas.py` en cualquier entorno que soporte Python 3. 
 El usuario debe seguir las instrucciones del menú interactivo para agendar citas.
 
 www.mightyservices.in
+
 ![image](https://github.com/user-attachments/assets/2ad71bd3-7e06-4c2c-ba8b-aeb28d2f2547)
 ![image](https://github.com/user-attachments/assets/207922f8-52ff-45c7-a34f-7208fbdc802b)
 
